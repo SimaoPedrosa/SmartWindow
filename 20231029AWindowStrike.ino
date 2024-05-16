@@ -52,14 +52,14 @@ LABEL's:
 /****************************************************************************Constants setup*/
 /*Wifi constants*/
 /*Casa*/
-const char* ssid = "MEO-3E29B0";//Wifi Name - Service Set IDentifier [Simon's Home]
-const char* password = "e8b12709fc";//Wifi Password [Simon's Home]
+const char* ssid = "";//Wifi Name - Service Set IDentifier [Simon's Home]
+const char* password = "";//Wifi Password [Simon's Home]
 /*Hotspot/
 const char* ssid = "SimaoPedro";
 const char* password = "simaopedro";
 /*Leiria/
-const char* ssid = "FeelGoodInc";
-const char* password = "naomechateies";
+const char* ssid = "";
+const char* password = "";
 
 /*MQTT constants*/
 const char* MQTTBroker = "192.168.1.159";//MQQTBroker [Torre]
